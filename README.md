@@ -6,12 +6,6 @@ Un buscador de personajes de **Rick and Morty**, construido con **React** y cons
 
 ---
 
-## 🚀 Demo
-
-> _Próximamente_: Puedes desplegarlo fácilmente en [Vercel](https://vercel.com) o [Netlify](https://netlify.com).
-
----
-
 ## 🧪 Tecnologías utilizadas
 
 - ⚛️ React (con Hooks)
@@ -21,11 +15,6 @@ Un buscador de personajes de **Rick and Morty**, construido con **React** y cons
 
 ---
 
-## 📸 Captura de pantalla
-
-![screenshot](./screenshot.png) <!-- puedes agregar una imagen real de tu app -->
-
----
 
 ## 🧰 Cómo usar este proyecto
 
@@ -34,3 +23,11 @@ Un buscador de personajes de **Rick and Morty**, construido con **React** y cons
 ```bash
 git clone https://github.com/tuusuario/rick-and-morty-search.git
 cd rick-and-morty-search
+npm install
+# o
+yarn
+npm run dev
+# o
+yarn dev
+
+Abre http://localhost:3000 para ver la app en el navegador.
