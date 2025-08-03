@@ -29,5 +29,5 @@ yarn
 npm run dev
 # o
 yarn dev
-
+```bash
 Abre http://localhost:3000 para ver la app en el navegador.
